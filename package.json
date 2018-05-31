@@ -14,5 +14,6 @@
   "author": "Keith Dahlby <keith@newbo.co>",
   "license": "MIT",
   "dependencies": {
+    "yargs": "^11.0.0"
   }
 }
